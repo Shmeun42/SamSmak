@@ -1,0 +1,121 @@
+*
+{
+	background-color:#E1A970;
+}
+main
+{
+	width:1200px;
+	margin: 0 auto;
+}
+section
+{
+	float:left;
+	margin-bottom:10px;
+}
+footer
+{
+	border-top:2px solid black;
+	text-align:center;
+	clear:both;
+}
+#left
+{
+	width:275px;
+}
+#right
+{
+	width:925px;
+}
+.link
+{
+	margin-bottom:5px;
+	text-align:center;
+}
+#sign
+{	
+	color:#AC252F;
+	font-size: 30px;
+}
+#keynote
+{
+	border-width: 900px;
+	border-top:2px solid black;
+	border-bottom:2px solid black;
+}
+header, #ad, .product2, .product2a, article
+{
+	text-align:center;
+}
+#key
+{
+	font-size:50px;
+}
+.product
+{
+	width:450px;
+	height:200px;
+	float:left;
+	margin:5px 7.5px 5px 5px;
+}
+.img
+{
+	float:left;
+	text-align:center;
+	width:150px;
+	height:200px;
+}
+.desc
+{
+	float:left;
+	text-align:center;
+	width:300px;
+	height:200px;
+}
+.empty
+{
+	color:#AC252F;
+}
+h2
+{
+	font-size:18px;
+}
+.product2, .product2a
+{
+	margin-right:5px;
+	width:295px;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	height:380px;
+}
+.product2
+{
+	margin-left:10px;
+}
+.product2a
+{
+	margin-left:5px;
+}
+#shop
+{
+	font-size:20px;
+}
+#contact
+{
+	font-size:25px;
+}
+
+#fruit
+{
+	float:left;
+	margin-right:25px;
+}
+.nazwa
+{
+	font-size:26px;
+}
+.opis
+{
+	font-size:20px;
+	text-align:left;
+}
